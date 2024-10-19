@@ -17,7 +17,7 @@ export function SliderMode() {
     <div className="slider-container">
       <Slider {...settings}>
         <div>
-       <img src="https://www.iguides.ru/upload/iblock/bfc/saaj70a20ym53mcmb6mgwq5eiqme71q6.jpg" alt="" class={style.SliderImg} />
+       <img src="./12.jpg" alt="" class={style.SliderImg} />
         </div>
         <div>
         <img src="./22.jpg" alt=""   class={style.SliderImg} />
