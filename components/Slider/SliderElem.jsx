@@ -17,22 +17,22 @@ export function SliderMode() {
     <div className="slider-container">
       <Slider {...settings}>
         <div>
-       <img src="public/12.jpg" alt="" class={style.SliderImg} />
+       <img src="./12.jpg" alt="" class={style.SliderImg} />
         </div>
         <div>
-        <img src="public/22.jpg" alt=""   class={style.SliderImg} />
+        <img src="./22.jpg" alt=""   class={style.SliderImg} />
         </div>
         <div>
-        <img src="public/122.jpg" alt=""  class={style.SliderImg}  />
+        <img src="./122.jpg" alt=""  class={style.SliderImg}  />
         </div>
         <div>
-        <img src="public/2121.jpg" alt=""   class={style.SliderImg} />
+        <img src="./2121.jpg" alt=""   class={style.SliderImg} />
         </div>
         <div>
-        <img src="public/3131.jpg" alt=""   class={style.SliderImg} />
+        <img src="./3131.jpg" alt=""   class={style.SliderImg} />
         </div>
         <div>
-        <img src="public/43.webp" alt=""   class={style.SliderImg} />
+        <img src="./43.webp" alt=""   class={style.SliderImg} />
         </div>
       </Slider>
     </div>
